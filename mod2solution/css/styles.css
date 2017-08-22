@@ -30,7 +30,7 @@ h1{
 }
   
 .cell-title>h2>span{
-	border: 2px solid black;	 
+	border: 1px solid black;	 
 }
 
 #title_1{
@@ -46,7 +46,7 @@ h1{
 }
 
 .cell-text{
-	border: 2px solid black;
+	border: 1px solid black;
 	float:left;  
 	height: 180px;
 	background:	#DCDCDC;
